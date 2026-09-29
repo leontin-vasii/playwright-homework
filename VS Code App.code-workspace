@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../VS Code App"
+		},
+		{
+			"path": "../HTML AUTHORING"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML AUTHORING"
+	}
+}
